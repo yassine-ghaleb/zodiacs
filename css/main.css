@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	background: url("https://i.pinimg.com/originals/81/63/72/816372d8c8578c3cdcee035a6d47c448.jpg");
+	background-size: 100%;
+
+}
+h1{
+	color: #e1eef6;
+    font-size: 50px;
+}
+p{
+	color:#e1eef6;
+	font-size: 25px;
+}
+button{
+	background-color:#061D2C;
+	color:#e1eef6;
+	font-size: 25px;
+	border:none;
+	border-radius: 20%;
+}
+div{
+	background-color: #439EA8;
+	max-width:;
+	display: center;
+	margin-left:15%; 
+	margin-right:15%;
+}
